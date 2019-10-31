@@ -5,4 +5,4 @@ GUI para fins de cadastros, com utilização da biblioteca Tkinter. Os dados sã
 # Projeto original. Requisitado através de um trabalho freelancer. 
 
 
-# pip install requirements.txt 
+# pip -r install requirements.txt 
